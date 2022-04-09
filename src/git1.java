@@ -10,5 +10,7 @@ public class git1 {
         System.out.println("66666666");
         System.out.println("777777777");
                System.out.println("qwer");
+        System.out.println("adsadasdad");
+
     }
 }
